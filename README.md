@@ -1,7 +1,7 @@
 # IW2
 
 Variáveis
-https://agathalouzada.github.io/IW2/dada/dad.html
+https://agathalouzada.github.io/IW2/js_aula01/index.html
 
 Funções
 
