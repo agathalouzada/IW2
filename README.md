@@ -8,7 +8,7 @@ https://agathalouzada.github.io/IW2/funcoes/funcoes.html
 
 
 Funções no Forms
-https://agathalouzada.github.io/IW2/funoces_forms/index.html
+https://agathalouzada.github.io/IW2/funcoes_forms/index.html
 
 
 Funções com Retorno e Parâmetro/IMC
