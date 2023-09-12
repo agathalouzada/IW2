@@ -11,7 +11,8 @@ Funções no Forms
 https://agathalouzada.github.io/IW2/funoces_forms/index.html
 
 
-Funções com Retorno e Parâmetro
+Funções com Retorno e Parâmetro/IMC
+https://agathalouzada.github.io/IW2/exercicios/index.html
 
 
 Laços de Repetição
