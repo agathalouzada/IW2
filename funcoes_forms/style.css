@@ -9,8 +9,8 @@ body{
     height: 100vh;
     background: linear-gradient(
     90deg,
-    rgba(65, 184, 131, 1) 0%,
-    rgba(0, 212, 255, 1) 100%
+    rgb(236, 75, 164) 0%,
+    rgb(235, 154, 228) 100%
     );
     display: flex;
     align-items: center;
@@ -50,10 +50,10 @@ body{
     padding: 2%;
     font-weight: bold;
     color: white;
-    background-color: rgba(15, 182, 0, 0.678);
+    background-color: rgba(231, 45, 45, 0.651);
 }
 .b4:hover{
-    background-color: rgba(84, 136, 69, 0.37);
+    background-color: rgba(243, 104, 134, 0.37);
     cursor: pointer;
 }
 .button{
