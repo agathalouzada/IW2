@@ -1,0 +1,64 @@
+p{
+   font-size: 15px;
+   font-weight: bold;
+}
+.formulário{
+    display: flex;
+    border-radius: 40%;
+}
+
+.container{
+    width: 70%;
+    border-radius: 20%;
+
+}
+.menu{
+    background-color: pink;
+}
+
+body{
+    background-color: rgba(223, 24, 180, 0.603);
+}
+
+.titulo_menu{
+    text-align: center;
+    padding: 2%;
+}
+.titulo{
+    text-align: center;
+    margin-top: 2%;
+}
+.explic{
+    margin-top: 2.5%;
+}
+.formulario{
+    text-align: center;
+    display: flex;
+    border-radius: 60%;
+}
+.person_form{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    width: 100%;
+    align-items: center;
+}
+.item_form{
+    width: 50%;
+}
+.cadastro{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+.resultado_{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.resultado{
+    margin: 2%;
+    background-color: rgb(123, 120, 124);
+    text-align: center;
+    width: 40%;
+}
